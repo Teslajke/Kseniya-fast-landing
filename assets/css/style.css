@@ -420,6 +420,7 @@ h6,
   position: relative;
   margin-top: -80px;
   z-index: 9;
+  opacity: 85%;
 }
 
 #hero .hero-container {
